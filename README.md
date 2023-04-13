@@ -1,5 +1,5 @@
-# UDEMY - Curso Python3
-Repositório destinado ao Curso UDEMY Python - Curso de Python 3 completo.
+# UDEMY - Curso Python3 - https://www.udemy.com/course/python-3-do-zero-ao-avancado
+Repositório destinado ao Curso UDEMY Python - Curso de Python 3 completo - Professor Luiz Otávio Miranda
 
 :iphone: Developer contacts
 
