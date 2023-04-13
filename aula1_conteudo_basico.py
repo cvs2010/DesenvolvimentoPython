@@ -54,9 +54,10 @@ print(str(11) + 'b')
 print()
 
 # Variáveis são usadas para salvar algo na memória do computador. (letra minúscula)
+# Constantes salvam registros, porém imutáveis, no Python são identificadas com LETRA MAIÚSCULA
 nome = 'José'
 idade = 17
-maior_de_idade = idade >= 18
+MAIOR_DE_IDADE = idade >= 18
 print('Nome:', nome, 'Idade:', idade)
 print('É maior de idade?', maior_de_idade)
 print()
