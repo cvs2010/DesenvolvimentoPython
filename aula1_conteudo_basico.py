@@ -59,7 +59,7 @@ nome = 'José'
 idade = 17
 MAIOR_DE_IDADE = idade >= 18
 print('Nome:', nome, 'Idade:', idade)
-print('É maior de idade?', maior_de_idade)
+print('É maior de idade?', MAIOR_DE_IDADE)
 print()
 
 #Exercício básico para criação de variáveis
@@ -69,12 +69,12 @@ data_de_nascimento = '11-05-1990'
 idade = 19
 altura = 1.80
 peso = (65.8, 'kg')
-eh_maior_de_idade = idade >= 18
+EH_MAIOR_DE_IDADE = idade >= 18
 
 print('Nome:', nome , sobrenome)
 print('Data de nascimento:' , data_de_nascimento, ', idade:' , idade)
 print('Altura:', altura, 'peso:', peso)
-print('É maior de idade?', eh_maior_de_idade)
+print('É maior de idade?', EH_MAIOR_DE_IDADE)
 print()
 
 #Operadores matemáticos em python
