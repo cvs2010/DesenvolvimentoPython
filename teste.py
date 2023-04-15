@@ -23,6 +23,8 @@ print(previsoes)
 #salvando o modelo.h5 em JSON para leitura do Tensorflow
 import tensorflow as tf
 
-model = tf.keras.models.load_model('modelo.h5')
-tf.saved_model.save(model, 'saved_model')
-tensorflowjs_converter --input_format=tf_saved_model --output_format=tfjs_graph_model saved_model/ model/
+# Salva o modelo em formato SavedModel
+tf.saved_model.save(modelo, os.path.join('C:', 'Dev', 'Projects', 'Python', 'curso_python_udemy', 'saved_model'))
+
+# Converte o modelo em formato SavedModel para JSON usando o tensorflowjs_converter
+!tensorflowjs_converter --input_format=tf_saved_model --output_format=tfjs_graph_model {os.path.join('C:', 'Dev', 'Projects', 'Python', 'curso_python_udemy', 'saved_model')} {os.path.join('C:', 'Dev', 'Projects', 'Python', 'curso_python_udemy', 'model')}
