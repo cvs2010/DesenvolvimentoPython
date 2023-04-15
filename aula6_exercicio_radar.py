@@ -24,3 +24,4 @@ if(LOCAL_1 - RADAR_RANGE <= local_float <= LOCAL_1 + RADAR_RANGE):
 else:
     print(f'Você passou muito longe! O {RADAR_NAME} não te detectou!')
     print()
+
