@@ -1,5 +1,5 @@
-# UDEMY - Curso Python3
-Repositório destinado ao Curso UDEMY Python - Curso de Python 3 completo
+# Desenvolvimento Python
+Repositório destinado ao desenvolvimento de projetos em Python
 
 :iphone: Developer contacts
 
@@ -9,31 +9,24 @@ Repositório destinado ao Curso UDEMY Python - Curso de Python 3 completo
 
 [![General badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white<SUBJECT>-<STATUS>-<COLOR>.svg)](https://www.instagram.com/cassiocvs_/)
 
-São aulas sobre assuntos relacionados com a linguagem Python (do básico ao avançado) e inclui várias seções bônus sobre expressões regulares, SQL, HTML e CSS.
+- Lógica de programação (partes básicas de Python 3)
 
+- Programação procedural e funcional (funções, repetições e partes relacionadas)
 
-Este curso está dividido da seguinte maneira:
-
-- Para nível iniciante: Lógica de programação (partes básicas de Python 3)
-
-- Para nível intermediário: Programação procedural e funcional (funções, repetições e partes relacionadas)
-
-- Para experientes: Programação orientada a objetos (no modo Pythônico) - Inclui seção específica de POO com Padrões de Projeto GoF
-
-- Módulos úteis: inclui aulas de módulos específicos do Python e de terceiros
+- Programação orientada a objetos (no modo Pythônico) - Inclui seção específica de POO com Padrões de Projeto GoF
 
 - Bases de dados: inclui aulas relacionadas com bases de dados no Python
 
-- Django: Criaremos alguns projetos (sites) utilizando o Django.
+- Django: alguns projetos (sites) utilizando o Django.
 
 - Interface Gráfica com PySide6 (Qt 6) com Python
 
 - Testes no Python (com TDD básico)
 
-- Bônus: Expressões Regulares (Regex - re)
+- Expressões Regulares (Regex - re)
 
 - Design Patterns (Padrões de projeto - GoF) - Programação Orientada a Objetos Avançada
 
-- Bônus: seções de HTML5 e CSS3
+- Seções de HTML5 e CSS3
 
-- Bônus: seção de SQL com MySQL
+- Seção de SQL com MySQL
